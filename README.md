@@ -15,16 +15,12 @@
     <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rodrigo-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-   </div>">
     
-  
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto:rodrigoac49gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/rodrigoacelio/">
-      <img width="30" src="linkedin.svg">
-    </a>
+<div> 
+  <p align="justify"> <strong>Como podem me encontrar:</strong></p>
+  <a href = "mailto:rodrigoac49icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigoacelio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
 ![Snake animation](https://github.com/rodrigoacelio/rodrigoacelio/blob/output/github-contribution-grid-snake.svg)
