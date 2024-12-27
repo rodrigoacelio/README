@@ -1,10 +1,10 @@
 ## E aí, Dev! Rodrigo aqui 🚀
 
-<p align="justify">Olá! Eu sou <strong>Rodrigo Alan</strong>, um entusiasta de programação, DevOps e infraestrutura de TI, com oito anos de experiência no mercado. Atualmente, estou em transição de carreira e focado em me tornar um desenvolvedor especializado em **DevOps**. Sou apaixonado por tecnologia e Inteligência Artificial, e estou empolgado para criar projetos que conectem desenvolvimento e operações, resolvendo problemas complexos com tecnologia de ponta.</p>
+<p align="justify" style="color:#ffffff; background-color:#bd0000; padding:10px; border-radius:8px;">Olá! Eu sou <strong>Rodrigo Alan</strong>, um entusiasta de programação, DevOps e infraestrutura de TI, com oito anos de experiência no mercado. Atualmente, estou em transição de carreira e focado em me tornar um desenvolvedor especializado em **DevOps**. Sou apaixonado por tecnologia e Inteligência Artificial, e estou empolgado para criar projetos que conectem desenvolvimento e operações, resolvendo problemas complexos com tecnologia de ponta.</p>
 
-<div>
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigoacelio&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="Estatísticas do Rodrigo"/>
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoacelio&layout=compact&langs_count=16&theme=great-gatsby" alt="Linguagens Mais Usadas pelo Rodrigo"/>
+<div style="display:flex; justify-content:space-around; background-color:#000; border-radius:10px; padding:15px;">
+ <img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigoacelio&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Rodrigo"/>
+ <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoacelio&layout=compact&langs_count=16&theme=radical" alt="Linguagens Mais Usadas pelo Rodrigo"/>
 </div>
 <br>
 
@@ -12,7 +12,7 @@
 
 ### 🔧 Tecnologias Usadas e Aprendendo
 
-<p align="justify">Abaixo estão algumas das ferramentas e tecnologias que utilizo ou estou aprendendo atualmente:</p>
+<p align="justify" style="color:#ffffff;">Abaixo estão algumas das ferramentas e tecnologias que utilizo ou estou aprendendo atualmente:</p>
 
 <div align="center"> 
   <div style="display: inline_block"><br>
@@ -30,11 +30,11 @@
 
 ### 🌐 Redes Sociais
 
-<p align="justify"> <strong>Conecte-se comigo:</strong></p>
+<p align="justify" style="color:#ffffff;"> <strong>Conecte-se comigo:</strong></p>
 <div align="center">
-  <a href="mailto:rodrigoac49icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/rodrigoalancelio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
-  <a href="https://github.com/rodrigoacelio" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub"></a>
+  <a href="mailto:rodrigoac49icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23bd0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/rodrigoacelio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+  <a href="https://github.com/rodrigoacelio" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23bd0000?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub"></a>
 </div>
 
 ---
