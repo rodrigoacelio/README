@@ -10,7 +10,9 @@
 
 ---
 
-### 🛠️ Tecnologias Usadas e Aprendendo
+### 🔧 Tecnologias Usadas e Aprendendo
+
+<p align="justify">Abaixo estão algumas das ferramentas e tecnologias que utilizo ou estou aprendendo atualmente:</p>
 
 <div align="center"> 
   <div style="display: inline_block"><br>
@@ -25,20 +27,27 @@
 
 ---
 
-### 🌍 Redes Sociais
+### 🌐 Redes Sociais
 
-<p align="justify"> <strong>Como você pode me encontrar:</strong></p>
+<p align="justify"> <strong>Conecte-se comigo:</strong></p>
 <div align="center">
   <a href="mailto:rodrigoac49icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/rodrigoacelio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+  <a href="https://github.com/rodrigoacelio" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub"></a>
 </div>
 
 ---
 
 ### 💡 Sobre Mim
 
-- 🔭 Explorando o mundo DevOps para criar soluções eficientes e escaláveis.
+- 🔧 Explorando o mundo DevOps para criar soluções eficientes e escaláveis.
 - 🌱 Atualmente aprendendo: Kubernetes, CI/CD com GitHub Actions, e Observabilidade.
 - 🎯 Objetivo: Me tornar um desenvolvedor completo e especialista em automação de infraestrutura.
 - ⚡ Curiosidade: Sou apaixonado por tecnologia e adoro um bom desafio!
 
+---
+
+### 📊 Portfólio
+
+- [Meu Repositório de Estudos DevOps](https://github.com/rodrigoacelio/CursoDevOps/tree/main)
+- [Outros Projetos no GitHub](https://github.com/rodrigoacelio)
